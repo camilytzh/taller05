@@ -1,4 +1,4 @@
-package Tareas;
+package CreadorTareas;
 
 public class TareaSimpleFactory implements TareaFactory{
 

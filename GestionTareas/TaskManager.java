@@ -1,6 +1,6 @@
 package GestionTareas;
 
-import Tareas.Tarea;
+import CreadorTareas.Tarea;
 
 import java.util.ArrayList;
 
